@@ -91,3 +91,11 @@ You can contribute by:
   - Pull Requests
 
 Please follow the guidelines mentioned above for contribution
+
+## Contributors - Hacktoberfest 2k19
+
+Add your name to the list below, and send a PR
+
+| Name | Github profile | 
+|:----:|:--------------:|
+| Rohan Mukherjee | [roerohan](https://github.com/roerohan) |
